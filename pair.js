@@ -68,28 +68,28 @@ router.get('/', async (req, res) => {
 
 > 1st STEP
 *TAP THE LINK BELOW AND FOLLOW THE CHANNEL* 
-𓄂 *_https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G_*
+𓄂 https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G
 
 > 2nd STEP
 *YOU MUST JOIN OUR GROUP FOR UPDATES ON THIS BOT*
-𓄂 *_https://chat.whatsapp.com/CxRzSiKKqWf07cEBKh9FGs_*
+𓄂 https://chat.whatsapp.com/CxRzSiKKqWf07cEBKh9FGs
 
 > 3rd STEP
 *FORK AND STAR 🌟 THE REPO FOR COURAGE*
-𓄂 *_https://github.com/boniphace478/BONIPHACE-MD_*
+𓄂 https://github.com/boniphace478/BONIPHACE-MD
 
 > 4th STEP 
 *VISIT FOR TUTORIALS IF YOU DON'T KNOW HOW TO DEPLOY*
 𓄂 *_https://youtube.com/@anthonyboniphace?si=7byoUZRggglmaISe_*
 
 *DEVELOPER1: BONIPHACE TECH*
-𓄂 *_https://t.me/+255716661569_*
+𓄂 https://t.me/+255716661569
 
 *DEVELOPER2: BONIPHACE_TECH*
-𓄂 *_https://t.me/+255716661569_*
+𓄂 https://t.me/+255716661569
 > Dm ME ☝️ FOR WHATSAPP BOT DEPLOYMENT 🔥 🔥 
 
-> ✅✅ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 BY BONIPHACE TEACH ✅✅`
+> ✅✅ ℙ𝕆𝕎𝔼ℝ𝔼𝔻 𝔹𝕐 𝔹𝕆ℕ𝕀ℙℍ𝔸ℂ𝔼 𝕋𝔼ℂℍ ✅✅`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
